@@ -1,0 +1,9 @@
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\bin\Release\EAS_CAL_TZ_Formatter.exe.config
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\bin\Release\EAS_CAL_TZ_Formatter.exe
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\bin\Release\EAS_CAL_TZ_Formatter.pdb
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\obj\Release\EAS_CAL_TZ_Formatter.Form1.resources
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\obj\Release\EAS_CAL_TZ_Formatter.Properties.Resources.resources
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\obj\Release\EAS_CAL_TZ_Formatter.csproj.GenerateResource.Cache
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\obj\Release\EAS_CAL_TZ_Formatter.csproj.CoreCompileInputs.cache
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\obj\Release\EAS_CAL_TZ_Formatter.exe
+C:\Users\kekici\Documents\Visual Studio 2017\Projects\EAS_CAL_TZ_Formatter\EAS_CAL_TZ_Formatter\obj\Release\EAS_CAL_TZ_Formatter.pdb
